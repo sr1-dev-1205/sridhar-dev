@@ -31,7 +31,7 @@ Aspiring Full-Stack Developer | Building College Website using React, TypeScript
 
 ##  Connect with Me
 -  [LinkedIn]-https://www.linkedin.com/in/sridhar1208-dev
--  [GitHub]-https://github.com/sr1-dev
+-  [GitHub]-https://github.com/sr1-dev-1205
 -  [Gmail]-sridhars200612@gmail.com 
 
 ---
