@@ -37,7 +37,7 @@ Aspiring Full-Stack Developer | Building College Website using React, TypeScript
 ---
 
 ##  Goals
--  Become a professional full-stack developer
+-  Become a professional full-stack (MERN) developer
 -  Build and contribute to open-source projects
 -  Land a great internship and tech role after graduation
 
